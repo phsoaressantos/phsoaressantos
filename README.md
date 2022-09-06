@@ -3,7 +3,7 @@ Welcome to my github! 👋
 
 
 - 🔭 I’m currently working on BI projects, using Power BI with API Rest and I'm Supervir of IT in a medium-sized company
-- 🌱 I’m currently learning Power BI, Python and starting studies in GOLang
+- 🌱 I’m currently learning Power BI, Python and starting studies in Pyspark
 
 <div align="center">
   <a href="https://github.com/phsoaressantos">
