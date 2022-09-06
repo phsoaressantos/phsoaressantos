@@ -27,6 +27,10 @@ Welcome to my github! 👋
   <img align="center" alt="Ph-MySql" height="30" width="100" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   
   <img align="center" alt="Ph-MySql" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  
+  <img align="center" alt="Power BI" height="30" width="100" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+  
+ <img align="center" alt="Pandas" height="30" width="100" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
 </div>
   
